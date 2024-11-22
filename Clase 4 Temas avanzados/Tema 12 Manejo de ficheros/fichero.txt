@@ -1,0 +1,3 @@
+sobreescrito texto 
+Otra línea de texto
+línea modificada texto
